@@ -1,7 +1,7 @@
 .hero{
     width:100%;
     min-height: 100vh;
-    background:linear-gradient(rgba(8,0,58,0.7),rgba(8,0,58,0.7)),url('C:\Users\kisho\OneDrive\Desktop\react js\E-Commerce\Edusity\Components\Hero\13.jpg');
+    background:linear-gradient(rgba(8,0,58,0.7),rgba(8,0,58,0.7)),url('./13.jpg');
     background-position:center;
     background-size: cover;
     color:#fff;
